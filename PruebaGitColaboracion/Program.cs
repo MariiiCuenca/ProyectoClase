@@ -10,6 +10,8 @@ namespace PruebaGitColaboracion
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hola");
+            Console.ReadLine();
         }
     }
 }
