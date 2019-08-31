@@ -12,6 +12,8 @@ namespace PruebaGitColaboracion
         {
             Console.WriteLine("hola");
             Console.ReadLine();
+            Console.WriteLine("aiuda");
+            Console.ReadLine();
         }
     }
 }
