@@ -13,6 +13,7 @@ namespace PruebaGitColaboracion
             Console.WriteLine("Queputa andapue");
             Console.WriteLine("COn ella lq quiero andar");
             Console.WriteLine("que loco meryjein");
+            Console.WriteLine("que loco meryjein 2.0");
             Console.ReadLine();
         }
     }
