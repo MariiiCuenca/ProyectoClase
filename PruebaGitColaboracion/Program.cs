@@ -11,6 +11,7 @@ namespace PruebaGitColaboracion
         static void Main(string[] args)
         {
             Console.WriteLine("Queputa andapue");
+            Console.WriteLine("COn ella lq quiero andar");
             Console.ReadLine();
         }
     }
